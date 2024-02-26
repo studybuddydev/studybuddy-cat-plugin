@@ -2,9 +2,9 @@
     "name": "Studybuddy",
     "version": "0.0.1",
     "description": "makes the cat a study tutor",
-    "author_name": "Me",
-    "author_url": "https://mywebsite.me",
-    "plugin_url": "https://github.com/my_name/studybuddy",
+    "author_name": "d8eea",
+    "author_url": "https://studybuddy.it",
+    "plugin_url": "https://github.com/studybuddydev/studybuddy-cat-plugin",
     "tags": "productivity",
-    "thumb": "https://studybuddy.it/assets/bg/sb.png"
+    "thumb": "https://studybuddy.it/assets/img/bg/sb.webp"
 }
